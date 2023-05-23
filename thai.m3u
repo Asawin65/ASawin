@@ -40,6 +40,6 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1CU6ew5NatZVPkSO-gEn9pxtTpU2s-4-B" tvg-logo="https://drive.google.com/uc?id=1CU6ew5NatZVPkSO-gEn9pxtTpU2s-4-B" tvg-chno="1" group-title="THAI Digital TV" tvg-name="TRUE4U ", TRUE4U
 http://183.89.246.119:8010/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1MJcXHfqMKVuCRtt2VEfbmCtuYNpZOd9L" tvg-logo="https://drive.google.com/uc?id=1MJcXHfqMKVuCRtt2VEfbmCtuYNpZOd9L" tvg-chno="1" group-title="THAI Digital TV" tvg-name="NEWS1 ", NEWS1
-https://server1.streamssl.com/stream/news1_hi.m3u8
+https://server1.streamssl.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-logo="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-chno="1" group-title="THAI Digital TV" tvg-name="T Sports 7 ", T Sports 7
 https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
