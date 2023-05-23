@@ -9,3 +9,11 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องMCOT", MCOT HD
 http://183.89.246.119:8010/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องWORKPOINT", WORKPOINT
+http://61.19.242.134/feed/202205171929/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องONE 31", ONE 31
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องTHAIRATH TV", THAIRATH TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องMONO29", MONO29
+https://live-3.monomax.me/tv/mono29_1440p.m3u8?vhost=live-3.monomax.me
