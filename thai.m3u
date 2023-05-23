@@ -20,8 +20,8 @@ https://live-3.monomax.me/tv/mono29_1440p.m3u8?vhost=live-3.monomax.me
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องAMARIN TV HD", AMARIN TV HD
 http://183.89.246.119:8010/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1qk26HXGYiY_DS5woIVS8ogkZ3gjfx9KB" tvg-logo="https://drive.google.com/uc?id=1qk26HXGYiY_DS5woIVS8ogkZ3gjfx9KB" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องGMM25", GMM25
-https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8
+http://61.19.242.134/feed/202205171929/chgmm/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องPPTV", PPTV
 http://183.89.246.119:8010/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ช่องTHAI PBS ", THAI PBS 
-http://183.89.246.119:8010/play/a00s/index.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
