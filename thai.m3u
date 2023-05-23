@@ -33,3 +33,13 @@ https://5f27aa1f6ef91.streamlock.net/jkn18/myStream/playlist.m3u8
 http://183.89.246.119:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1HMAkC2QnqU9tb6M06X-ukTKu1Wfr_I31" tvg-logo="https://drive.google.com/uc?id=1HMAkC2QnqU9tb6M06X-ukTKu1Wfr_I31" tvg-chno="1" group-title="THAI Digital TV" tvg-name="NATION ", NATION
 https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1-8UG7yMKXcbCN7wnBohX-oMVKs6nwgK-" tvg-logo="https://drive.google.com/uc?id=1-8UG7yMKXcbCN7wnBohX-oMVKs6nwgK-" tvg-chno="1" group-title="THAI Digital TV" tvg-name="TPTV ", TPTV
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1fAZ6VOUHbbmqlmLDCJIkB3_8adzQfW2l" tvg-logo="https://drive.google.com/uc?id=1fAZ6VOUHbbmqlmLDCJIkB3_8adzQfW2l" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ALTV ", ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1CU6ew5NatZVPkSO-gEn9pxtTpU2s-4-B" tvg-logo="https://drive.google.com/uc?id=1CU6ew5NatZVPkSO-gEn9pxtTpU2s-4-B" tvg-chno="1" group-title="THAI Digital TV" tvg-name="TRUE4U ", TRUE4U
+http://183.89.246.119:8010/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1MJcXHfqMKVuCRtt2VEfbmCtuYNpZOd9L" tvg-logo="https://drive.google.com/uc?id=1MJcXHfqMKVuCRtt2VEfbmCtuYNpZOd9L" tvg-chno="1" group-title="THAI Digital TV" tvg-name="NEWS1 ", NEWS1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-logo="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-chno="1" group-title="THAI Digital TV" tvg-name="T Sports 7 ", T Sports 7
+https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
