@@ -171,13 +171,22 @@ https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="True Film1" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1bAl_npEE4lrdie0eLSZaPviKeuF626SP" group-title="MoviesChannel FOR  luxDu CHANEL",True Film1 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TRUE Series" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1NS8Gw66ndUz9P-Nv86LkqQJN9yeT2RQU" group-title="MoviesChannel FOR  luxDu CHANEL",TRUE Series 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Movie Hits" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1-iv4fES4umIodFOJa1ER3nBhM0hL4KQo" group-title="MoviesChannel FOR  luxDu CHANEL",Movie Hits 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 #EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="CHANNEL8" tvg-logo="https://sv1.picz.in.th/images/2021/10/03/CFS5Sq.png",CHANNEL8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
-
+#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="BOX FILM" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8q0vt.png",BOX FILM
+https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
 
 
 
@@ -186,7 +195,7 @@ https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 #EXTINF:-0 group-title="ทีวีท้องถิ่นไทย FOR  luxDu CHANEL" tvg-id="siamnewstvth" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-0 group-title="MoviesChannel" tvg-id="siamnewstv.th" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SIAM NEWS
+#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="siamnewstv.th" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-0 group-title="ทีวีท้องถิ่นไทย FOR  luxDu CHANEL" tvg-id="mounchontv.th" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",Mounchontv
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
@@ -198,15 +207,15 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 #EXTINF:-0 group-title="ทีวีท้องถิ่นไทย FOR  luxDu CHANEL" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",Chiangrai
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-0 group-title="MoviesChannel" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",Chiangrai
+#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",Chiangrai
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-0 group-title="Music" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/srtvonline/srtvonline.png",Srtvonline
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
-#EXTINF:-0 group-title="MoviesChannel" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU", Movie Japan
+#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU", Movie Japan
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
-#EXTINF:-0 group-title="MoviesChannel" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y1V5yWzBHskHB-Lot_jl4fpJ5wIZOHsXfg&usqp=CAU", MOVIE GROUP
+#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y1V5yWzBHskHB-Lot_jl4fpJ5wIZOHsXfg&usqp=CAU", MOVIE GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-0 group-title="MoviesChannel" tvg-id="CTB.th" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-TCB.png",CTB
+#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="CTB.th" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-TCB.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w672486153.m3u8
 #EXTINF:-0 group-title="ทีวีท้องถิ่นไทย FOR  luxDu CHANEL" tvg-id="suwannabhumi.th" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-SUVAN.png",SUWANNABHUMI
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
