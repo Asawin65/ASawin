@@ -43,13 +43,12 @@ http://183.89.246.119:8010/play/a00d/index.m3u8
 https://server1.streamssl.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-logo="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-chno="1" group-title="THAI Digital TV" tvg-name="T Sports 7 ", T Sports 7
 https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo-small="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" tvg-chno="1" group-title="SPORT" tvg-name="True Premier Football HD 1 ", True Premier Football HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo-small="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" tvg-chno="1" group-title="SPORT" tvg-name="True Premier Football HD 2 ", True Premier Football HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="beINSports" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_1.png" group-title="SportsTH", Bein Sports 1 HD
+
+#EXTINF:-1 tvg-id="beINSports" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="SportsTH", True Premier Football HD 1
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSports" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="SportsTH", True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-premier-hd-1/playlist.m3u8
