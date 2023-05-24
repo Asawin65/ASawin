@@ -84,3 +84,63 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-5/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 1(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 1(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 1(TH)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 2(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 2(TH)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-2/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 3(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 3(TH)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-3/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 4(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 4(TH)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-4/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 5(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 5(TH)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-5/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 6(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 6(TH)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-6/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 7(TH)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport7.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SportsTH",True Sport 7(TH)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-7/playlist.m3u8
