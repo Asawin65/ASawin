@@ -150,11 +150,32 @@ https://live.vip-streaming.com:30443/doolive4k.tv/true-sport-7/playlist.m3u8
 
 
 #########MoviesChannel######
-#EXTINF:-1 tvg-id="beINSports FOR  luxDu CHANEL" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="MoviesChannel FOR  luxDu CHANEL", HBO (EN)
+
+#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="MoviesChannel FOR  luxDu CHANEL", HBO (TH)
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+#EXTINF:-1 tvg-id="HBO (EN)" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="MoviesChannel FOR  luxDu CHANEL", HBO (EN)
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
-#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="CHANNEL8" tvg-logo="https://sv1.picz.in.th/images/2021/10/03/CFS5Sq.png",CHANNEL 8
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/wb-tv.png" group-title="MoviesChannel FOR  luxDu CHANEL", Warner TV
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1 tvg-id="AXNHD" tvg-name="" tvg-logo="https://drive.google.com/uc?id=12CvAVMlNROi0GU8sFzcxMiWSqYbnJnua" group-title="MoviesChannel FOR  luxDu CHANEL",AXN HD 
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Thai Film" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png" group-title="MoviesChannel FOR  luxDu CHANEL",Thai Film 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
+
+
+
+
+#EXTINF:-0 group-title="MoviesChannel FOR  luxDu CHANEL" tvg-id="CHANNEL8" tvg-logo="https://sv1.picz.in.th/images/2021/10/03/CFS5Sq.png",CHANNEL8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 
