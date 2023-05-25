@@ -1,5 +1,5 @@
 #EXTM3U url="luxDu CHANEL"
-#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง3",CH 3
+#EXTINF:-1 tvg-id="3" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง3",CH 3
 http://183.89.246.119:8010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/5-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง5",CH 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w1436594662.m3u8
@@ -322,3 +322,86 @@ https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wacthstream.com/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+
+
+
+
+#########สารคดี 🅛🅤🅧🅓🅤 ​######
+
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/national-geographic.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", Nat Geographic 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/national-geographic.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", Nat Geographic 🇹🇭
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/558_Nationnal_geographic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", BBC EARTH 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", BBC EARTH 🇹🇭
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-lifestyle.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", bbc lifestyle 🇹🇭
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/animal-planet.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", AnimalPlanet
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/animal-planet.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", ANIMAL PLANET USA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ddh1.salamus1.lol/ddh1/premium304/playlist.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/asia-discovery.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", Discovery Asia 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-history.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", Discovery History (UK)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://dl.dropbox.com/s/zpf1x9blccdl6m7/samrujlok.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", สำรวจโลก
+#EXTVLCOPT:http-referrer=https://cdn6.goprimetime.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
+#EXTINF:-1 tvg-id="animalshow.th" tvg-name="AnimalShow" tvg-logo="https://i.ibb.co/T018CMK/animal.jpg" group-title="สารคดี 🅛🅤🅧🅓🅤 ​",AnimalShow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC18/index.m3u8
+#EXTINF:-1 tvg-id="NewExplorer.th" tvg-name="NewExplorer.th" tvg-logo="https://i.ibb.co/NZB9D3z/newexplore.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​",NewExplorer
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​", History HD 🇹🇭
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://drive.google.com/uc?id=141Goz5SCvIOicmCdi06hNDmZrEckK1SH" group-title="สารคดี 🅛🅤🅧🅓🅤 ​",  animal kingdom    🇺🇸
+#EXTVLCOPT:http-referrer=https://cdn6.goprimetime.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC18/index.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://i0.wp.com/www.nextsteptv.com/khongdee/wp-content/uploads/2017/09/cropped-KDT.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​",  ของดี ประเทศไทย
+#EXTVLCOPT:http-referrer=https://cdn6.goprimetime.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1oaxRMOnvH5EdRWEObjvWfieQxX_2rTB_" group-title="สารคดี 🅛🅤🅧🅓🅤 ​",  LOVE NATURE 
+#EXTVLCOPT:http-referrer=https://d18dyiwu97wm6q.cloudfront.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-x-zyte.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​",  True X-ZYTE 🇹🇭 
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="สารคดี 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="สารคดี 🅛🅤🅧🅓🅤 ​",  IN WILD
+#EXTVLCOPT:http-referrer=https://inwild-samsungau.amagi.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+
+
+
+
+
+
