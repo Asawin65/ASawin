@@ -467,7 +467,10 @@ https://streamhls.com/view/4bd261bb-87b6-5079-a3ae-cca9c3b7916a.m3u8
 #EXTVLCOPT:http-referrer=https://movie-th.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cnn.nebulamov.com/src/hls/f9subth_172054_11-00-55pm_2022-10-04_hls.m3u8/f9subth_172054_11-00-55pm_2022-10-04_hls.m3u8
-
+#EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://movie-th.tv/wp-content/uploads/2022/10/movie-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-1-1.jpg" group-title="Movies        🅛🅤🅧🅓🅤", Fast and Furious : Hobbs & Shaw (2019))
+#EXTVLCOPT:http-referrer=https://movie-th.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cnn.nebulamov.com/src/hls/ffhobbshawsubth_197875_07-44-38pm_2022-10-05_hls.m3u8/ffhobbshawsubth_197875_07-44-38pm_2022-10-05_hls.m3u8
 
 
 
