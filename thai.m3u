@@ -448,7 +448,19 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 #EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="CHANNEL8" tvg-logo="https://sv1.picz.in.th/images/2021/10/03/CFS5Sq.png",CHANNEL8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="BOX FILM" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8q0vt.png",BOX FILM
-https://cdn6.goprimetime.info/feed/202205http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8171929/LC52/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
+#EXTINF:-1 tvg-id="Movie Hits" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",SUN
+#EXTVLCOPT:http-referrer=https://cdn6.goprimetime.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8
+#EXTINF:-1 tvg-id="Movie Hits" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-sieqvOY1lgR3aQ8GXukSqzkbQBcsOYchQ&usqp=CAU" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",7Flix
+#EXTVLCOPT:http-referrer=https://cdn6.goprimetime.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chzeenung/index.m3u8
+#EXTINF:-1 tvg-id="Movie Hits" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1BxOFboRJjWamV7GBHy4QBzruty4DHdcl" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",NK tv
+#EXTVLCOPT:http-referrer=http://sv1.afdc.live:9898
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sv1.afdc.live:9898/stream/nktv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAWRg7LH7xBHKgIzVjLemhMeWfM1LwKCJqQ&usqp=CAU" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​", มังกร
 #EXTVLCOPT:http-referrer=http://49.0.87.24:1936
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
