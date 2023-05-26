@@ -263,14 +263,6 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 #EXTINF:-0 group-title="ทีวีท้องถิ่นไทย 🅛🅤🅧🅓🅤 ​" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",Chiangrai
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",Chiangrai
-https://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU", Movie Japan
-https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
-#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y1V5yWzBHskHB-Lot_jl4fpJ5wIZOHsXfg&usqp=CAU", MOVIE GROUP
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="CTB.th" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-TCB.png",CTB
-http://vip.login.in.th:1935/CTB/CTB/chunklist_w672486153.m3u8
 #EXTINF:-0 group-title="ทีวีท้องถิ่นไทย 🅛🅤🅧🅓🅤 ​" tvg-id="suwannabhumi.th" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-SUVAN.png",SUWANNABHUMI
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
@@ -465,8 +457,26 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://49.0.87.24:1936
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-
-
+#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",Chiangrai
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU", Movie Japan
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y1V5yWzBHskHB-Lot_jl4fpJ5wIZOHsXfg&usqp=CAU", MOVIE GROUP
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="CTB.th" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-TCB.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w672486153.m3u8
+#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://www.muanchononlinenews.com/wp-content/uploads/2022/01/H02.jpg" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​", มวลชนทีวี
+#EXTVLCOPT:http-referrer=http://49.0.87.24:1936
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​", PTV ONLINE
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",MEDIA NEWS
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live1.thaitvstream.com/play/medianews/index.m3u8
 
 
 #########Movies        🅛🅤🅧🅓🅤 ​######
