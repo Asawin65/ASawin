@@ -497,34 +497,37 @@ https://live1.thaitvstream.com/play/medianews/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/4bd261bb-87b6-5079-a3ae-cca9c3b7916a.m3u8
 #EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/05/Tid-Noii-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", Tid-Noii (2023) ทิดน้อย
-#EXTVLCOPT:http-referrer=https://movie-th.tv/
+#EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/4aacdf68-63c8-5499-8638-216e9c65b843.m3u8
 #EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/05/Ai-Kai-Wat-Chedi-Boy-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", Ai Kai, Wat Chedi Boy (2023) ไอ้ไข่ เด็กวัดเจดีย์
-#EXTVLCOPT:http-referrer=https://movie-th.tv/
+#EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/109825fb-118d-526e-b92a-fd59d6287cd6.m3u8
 #EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/04/Dungeons-And-Dragons-Honor-Among-Thieves-2023-Poster.webp" group-title="Movies        🅛🅤🅧🅓🅤", Dungeons & Dragons: Honor Among Thieves (2023) ดันเจียนส์ & ดรากอนส์ : เกียรติยศในหมู่โจร
-#EXTVLCOPT:http-referrer=https://movie-th.tv/
+#EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/71de46e5-3278-5c21-befa-9af043024741.m3u8
 #EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/The-Point-Men-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", The Point Men (2023) ล็อคเป้าตาย ค่าไถ่หยุดโลก
-#EXTVLCOPT:http-referrer=https://movie-th.tv/
+#EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/6f681702-4397-5729-a7db-af004fbf78a8.m3u8
 #EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/03/The-Point-Men-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", The Point Men (2023) ล็อคเป้าตาย ค่าไถ่หยุดโลก
-#EXTVLCOPT:http-referrer=https://movie-th.tv/
+#EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/6f681702-4397-5729-a7db-af004fbf78a8.m3u8
 #EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/04/The-Covenant-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", The Covenant (2023) เดอะ โคเวแนนท์
-#EXTVLCOPT:http-referrer=https://movie-th.tv/
+#EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streamhls.com/view/ee431b87-c63e-5683-986d-aa5e6a163ac2.m3u88
-#EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/04/The-Covenant-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", The Covenant (2023) เดอะ โคเวแนนท์
-#EXTVLCOPT:http-referrer=https://movie-th.tv/
+https://streamhls.com/view/ee431b87-c63e-5683-986d-aa5e6a163ac2.m3u8
+#EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/05/Snag-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", Tin & Tina (2023) ตินกับตินา
+#EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streamhls.com/view/ee431b87-c63e-5683-986d-aa5e6a163ac2.m3u88
-
+https://streamhls.com/view/342cf98a-2baa-5512-acf0-6cfd6a5a9a53.m3u8
+#EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/05/Blood-Gold-2023.webp" group-title="Movies        🅛🅤🅧🅓🅤", Blood & Gold (2023) ทองเปื้อนเลือด
+#EXTVLCOPT:http-referrer=https://streamhls.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streamhls.com/view/73f4c501-2ed8-555b-829f-b30b15dbe2d1.m3u8
 
 
 
