@@ -1,4 +1,4 @@
 #EXTM3U
-"author": "",
-#EXTINF:-1,
-https://m1.ballnaja.com/live/ais_3BB_Asian/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2949814,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
+chunks.m3u8?nimblesessionid=3837104
