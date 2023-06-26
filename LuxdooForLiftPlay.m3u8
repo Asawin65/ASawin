@@ -1,0 +1,51 @@
+{
+"name": "luxDu For liftplay",
+ author:" V.6.0 เพิ่มช่อง ต่างประเทศ",
+"image": "https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
+"url": "",
+ 
+ 
+ 
+"groups": [
+ 
+
+{
+"name": " กดก่อน 1 ครั้ง ",
+"image": "https://drive.google.com/uc?id=1462eSoxCVme4ElUV9OWZNQbNVA9B2HHF",
+"url": ""
+},
+
+
+{
+"name"              :     "Digital TV Thailand",
+"image"             :     "https://drive.google.com/uc?id=1sMbi81_fhkoOTPaSnqy7aycm7LgAfVgQ",
+"url"               :     "https://raw.githubusercontent.com/Asawin65/ASawin/main/digitalTV.m3u8",
+"import": false
+}, 
+
+
+
+
+
+
+
+
+
+
+ 
+{
+"name"              :     "MOVIES & Series",
+"image"             :     "https://drive.google.com/uc?id=1keypVdDFuSFMW_katoU0bHk4ZVkUUKqg",
+"url"               :     "",
+"import": false
+},
+
+ 
+
+
+
+
+
+
+]
+}
