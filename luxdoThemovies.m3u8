@@ -5,7 +5,11 @@
 "image":  "https://drive.google.com/uc?id=19oeAX0kf_LxYofdD-G0vj9UPCHdLpHMr",
 "groups": [
 
-
+{
+"name": " กดก่อน 1 ครั้ง ",
+"image": "https://drive.google.com/uc?id=1462eSoxCVme4ElUV9OWZNQbNVA9B2HHF",
+"url": "https://raw.githubusercontent.com/Asawin65/ASawin/luxdoThemovies.m3u8"
+},
 
 {
 "name": "Movies",
