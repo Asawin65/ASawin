@@ -10,7 +10,7 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMCOT", MCOT HD
 http://183.89.246.119:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องWORKPOINT", WORKPOINT
-http://61.19.242.134/feed/202205171929/chworkpoint/index.m3u8
+http://61.19.242.134/feed/202306140918/chworkpoint/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องONE 31", ONE 31
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องTHAIRATH TV", THAIRATH TV
@@ -20,19 +20,19 @@ https://live-3.monomax.me/tv/mono29_1440p.m3u8?vhost=live-3.monomax.me
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องAMARIN TV HD", AMARIN TV HD
 http://183.89.246.119:8010/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1qk26HXGYiY_DS5woIVS8ogkZ3gjfx9KB" tvg-logo="https://drive.google.com/uc?id=1qk26HXGYiY_DS5woIVS8ogkZ3gjfx9KB" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องGMM25", GMM25
-http://61.19.242.134/feed/202205171929/chgmm/index.m3u8
+http://61.19.242.134/feed/202306140918/chgmm/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องPPTV", PPTV
 http://183.89.246.119:8010/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องTHAI PBS ", THAI PBS 
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1ND1VRKe6nt5a91tRnLyeBMqGVMqWmfCi" tvg-logo="https://drive.google.com/uc?id=1ND1VRKe6nt5a91tRnLyeBMqGVMqWmfCi" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="TNN16 ", TNN16 
-http://61.19.242.134/feed/202205171929/chtnn/index.m3u8
+http://61.19.242.134/feed/202306140918/chtnn/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1HuQxgdO4NDKG_oZSor1CTKOUkIEr7LDa" tvg-logo="https://drive.google.com/uc?id=1HuQxgdO4NDKG_oZSor1CTKOUkIEr7LDa" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="JKN 18 ", JKN 18
 https://5f27aa1f6ef91.streamlock.net/jkn18/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/%E0%B8%AA%E0%B8%97%E0%B8%97.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/%E0%B8%AA%E0%B8%97%E0%B8%97.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="NBT HD ", NBT HD
 http://183.89.246.119:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1HMAkC2QnqU9tb6M06X-ukTKu1Wfr_I31" tvg-logo="https://drive.google.com/uc?id=1HMAkC2QnqU9tb6M06X-ukTKu1Wfr_I31" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="NATION ", NATION
-https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1-8UG7yMKXcbCN7wnBohX-oMVKs6nwgK-" tvg-logo="https://drive.google.com/uc?id=1-8UG7yMKXcbCN7wnBohX-oMVKs6nwgK-" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="TPTV ", TPTV
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1fAZ6VOUHbbmqlmLDCJIkB3_8adzQfW2l" tvg-logo="https://drive.google.com/uc?id=1fAZ6VOUHbbmqlmLDCJIkB3_8adzQfW2l" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ALTV ", ALTV
@@ -42,7 +42,7 @@ http://183.89.246.119:8010/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1MJcXHfqMKVuCRtt2VEfbmCtuYNpZOd9L" tvg-logo="https://drive.google.com/uc?id=1MJcXHfqMKVuCRtt2VEfbmCtuYNpZOd9L" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="NEWS1 ", NEWS1
 https://server1.streamssl.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-logo="https://drive.google.com/uc?id=15XGFTAfV8-ECNxDRSyYKk5ah944rrElh" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="T Sports 7 ", T Sports 7
-https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
 
 
 #######Education    🅛🅤🅧🅓🅤 ​####
