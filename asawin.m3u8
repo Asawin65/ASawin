@@ -1,0 +1,93 @@
+{
+"name": "CHANEL ASAWIN",
+ author:"V.3.0 เพิ่มช่อง FM.",
+"image": "https://drive.google.com/uc?id=1MGlELBaj_aSS-k_MtCsczqA6OtvI8oOG",
+"url": "https://pastebin.com/raw/0eAjNSiS",
+ 
+
+ 
+"groups": [
+ 
+
+{
+"name": " กดก่อน 1 ครั้ง ",
+"image": "https://drive.google.com/uc?id=1kRJpdBtYNE8mTYg0uL4SMaq-KOftRbCL",
+"url": "https://pastebin.com/raw/0eAjNSiS",
+"import": false
+},  
+
+
+
+
+{
+"name"              :     "      TV ONLINE",
+"image"             :     "https://drive.google.com/uc?id=1Pe1jchrX9j_tjZ95u4my5tQu3oB7PJ5o",
+"url"               :     "https://drive.google.com/uc?id=1TOUXIsLOIU00TbL2l7daf2LhGib4XQj8",
+"import": false
+},  
+
+{
+"name"              :     "DOCUMENTARY ONLINE",
+"image"             :     "https://drive.google.com/uc?id=1tDFZfJTuSWISPXgPa5KEatRlwC-53_Ou",
+"url"               :     "https://drive.google.com/uc?id=1NfdEO5ZfeQ1yR0rdN6JeCpX99VW6rpuE",
+"import": false
+},
+
+{
+"name"              :     "MOVIES ONLINE",
+"image"             :     "https://drive.google.com/uc?id=16nIu1oUO9zkjmaIX5e251xS29xD1VlK4",
+"url"               :     "https://drive.google.com/uc?id=1vfKxt44hyC1a8HxnIHP4PmY-S4T3sBTd",
+"import": false
+},
+
+
+{
+"name"              :     "      MOVIES & Series",
+"image"             :     "https://drive.google.com/uc?id=18ZG0Fp1XDcqjzoE3N-YPy9x5QGgSmuLI",
+"url"               :     "https://drive.google.com/uc?id=1DBkAI6S6Yxrg5EXNeImL1NilSHxjghhn",
+"import": false
+},
+
+
+{
+"name"              :     "CARTOON ONLINE",
+"image"             :     "https://drive.google.com/uc?id=1xHZJXzJP0fs3XRXyIbWr30Z6pwwtlt4m",
+"url"               :     "https://drive.google.com/uc?id=1sFpxhfldVBPtZuznvT6uW-7uT6HMk2iQ",
+"import": false
+},
+
+{
+"name"              :     "SPORT ONLINE",
+"image"             :     "https://drive.google.com/uc?id=1SpJEaN_S1-CI_7ig1QfP0troX76EOpAP",
+"url"               :     "https://drive.google.com/uc?id=1mQ_qEV2pgC7ld17ejufGjwtU_NN22Acq",
+"import": false
+},
+
+
+
+{
+"name"              :     "Acestream SPORT",
+"image"             :     "https://drive.google.com/uc?id=14FRWTt6O0pEd36htvl9RQpMWiDcCnNrs",
+"url"               :     "https://drive.google.com/uc?id=11xH9RKaX_xU1Dy3CaMKhnXQAQg58jjxX",
+"import": false
+},
+
+
+
+{
+"name"              :     "รวมช่อง ต่างประเทศ",
+"image"             :     "https://drive.google.com/uc?id=1KJJwlujXd3FTm3V9O4qTybbppm86jZnr",
+"url"               :     "https://drive.google.com/uc?id=1cf9YPr9E6EC3xn6piIrL9sOrToZu8Qy-",
+"import": false
+},
+
+{
+"name"              :     "ฟังเพลง FM",
+"image"             :     "https://drive.google.com/uc?id=1g5kSSFf-VhV-ZCb_e5DtUgZuKIj-i38m",
+"url"               :     "https://drive.google.com/uc?id=1uAJfRjxeZwgUiZahtHSXqyzEnxVbUpTl",
+"import": false
+},
+
+
+]
+}
