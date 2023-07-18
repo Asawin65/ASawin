@@ -489,7 +489,10 @@ https://streamhls.com/view/342cf98a-2baa-5512-acf0-6cfd6a5a9a53.m3u8
 #EXTVLCOPT:http-referrer=https://streamhls.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/73f4c501-2ed8-555b-829f-b30b15dbe2d1.m3u8
-
+#EXTINF:-1 tvg-id="Movies        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2022/04/Transformers-1-2007.webp" group-title="Movies        🅛🅤🅧🅓🅤", Transformers 1 (2007) ทรานส์ฟอร์เมอร์ส มหาวิบัติเครื่องจักรกลถล่มโลก
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://m1free.inwstream.com:1936/movie2/Transformers-2007-2011/Transformers-2007-th-1080p.mp4/chunk.m3u8
 
 
 
