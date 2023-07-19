@@ -201,23 +201,33 @@ https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.livestream88.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://139.99.24.189:8081/live/bein1/sport/golf/chunks.m3u8/
-#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/a2AfcZB.png",302-Sony  TEN 2 HD
+
+
+
+
+#########SportsEN 🅛🅤🅧🅓🅤 ​######
+
+
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/a2AfcZB.png",302-Sony  TEN 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/JRYyggH.png",303-Sony TEN 3 HD
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/JRYyggH.png",303-Sony TEN 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/opYjIuy.png",304-Sony TEN 4 HD
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/opYjIuy.png",304-Sony TEN 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/zhHzEBL.png",305-Sony TEN 5 HD
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/zhHzEBL.png",305-Sony TEN 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/BDqLhZo.png",286-Viaplay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 
 
@@ -304,6 +314,10 @@ http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115733&extension=ts
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115624&extension=ts
+#EXTINF:-1 group-title="สารคดี                    🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/dKUJaum.png",156-Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-id="สารคดี                    🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-lifestyle.png" group-title="สารคดี                    🅛🅤🅧🅓🅤 ​", bbc lifestyle 🇹🇭
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
