@@ -208,23 +208,23 @@ http://139.99.24.189:8081/live/bein1/sport/golf/chunks.m3u8/
 #########SportsEN 🅛🅤🅧🅓🅤 ​######
 
 
-#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/a2AfcZB.png",302-Sony  TEN 2 HD
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/a2AfcZB.png",Sony  TEN 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/JRYyggH.png",303-Sony TEN 3 HD
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/JRYyggH.png",Sony TEN 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/opYjIuy.png",304-Sony TEN 4 HD
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/opYjIuy.png",Sony TEN 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/zhHzEBL.png",305-Sony TEN 5 HD
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/zhHzEBL.png",Sony TEN 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/BDqLhZo.png",286-Viaplay
+#EXTINF:-1 group-title="SportsEN 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/BDqLhZo.png",Viaplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=OTH
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
@@ -258,19 +258,19 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8
 #EXTINF:-1 tvg-id="Budsaba.th" tvg-name="Busaba" tvg-logo="https://i.ibb.co/7SRycDD/bbb.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",Busaba
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="JustFun.th" tvg-name="JustFun" tvg-logo="https://i.ibb.co/dsNNJ3L/Justfun.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",JustFun
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tXr6CPL/sweet.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",Sweet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/LC58/index.m3u8
 #EXTINF:-1 tvg-id="Heart.th" tvg-name="Heart" tvg-logo="https://i.ibb.co/qYHStJ0/heart.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",Heart
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="Hero.th" tvg-name="Hero" tvg-logo="https://i.ibb.co/S3LPy31/Hero.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",Hero
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="Sumlojlok.th" tvg-name="Sumlojlok" tvg-logo="https://i.ibb.co/Pm84NSc/goodtv.jpg" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",Sumlojlok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
@@ -279,23 +279,23 @@ https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/LC18/index.m3u8
 #EXTINF:-1 tvg-id="animalshow.th" tvg-name="AnimalShow" tvg-logo="https://i.ibb.co/T018CMK/animal.jpg" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",AnimalShow
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="BXcite.th" tvg-name="BXcite" tvg-logo="https://i.ibb.co/0ZXqLCb/bxcite.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",BXcite
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="mysci.th" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",MYSCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8
 #EXTINF:-1 tvg-id="MYSCI" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",MYSCI
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="NewExplorer.th" tvg-name="NewExplorer.th" tvg-logo="https://i.ibb.co/NZB9D3z/newexplore.png" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",NewExplorer
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 #EXTINF:-1 tvg-id="NextKid.th" tvg-name="nextKids" tvg-logo="https://i.ibb.co/GC2XbHr/nextKids.jpg" group-title="GOODTV 🅛🅤🅧🅓🅤 ​",nextKids
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
 
 
 
@@ -372,7 +372,10 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:http-referrer=https://ustvgo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
-
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/GmgBGkN.png",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
 
 #########Cartoon       🅛🅤🅧🅓🅤 ​######
 
