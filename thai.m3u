@@ -201,7 +201,22 @@ https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.livestream88.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://139.99.24.189:8081/live/bein1/sport/golf/chunks.m3u8/
-
+#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/a2AfcZB.png",302-Sony  TEN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/JRYyggH.png",303-Sony TEN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/opYjIuy.png",304-Sony TEN 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-logo="https://i.imgur.com/zhHzEBL.png",305-Sony TEN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
 
