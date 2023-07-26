@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="3" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง3",001-CH. 3
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
-https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/5-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง5",002-CH 5
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
@@ -18,7 +18,7 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMCOT",005-MCOT HD
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
-http://183.89.246.119:8010/play/a00h/index.m3u8
+http://61.19.242.134/feed/202306140918/chworkpoint/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องWORKPOINT",006-WORKPOINT
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
@@ -30,7 +30,7 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องTHAIRATH TV",008-THAIRATH TV
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
-https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
+https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMONO29",009-MONO29
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
@@ -38,7 +38,7 @@ https://live-3.monomax.me/tv/mono29_1440p.m3u8?vhost=live-3.monomax.me
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องAMARIN TV HD",010AMARIN TV HD
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
-https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
+http://61.19.242.134/feed/202306140918/chamarin/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1qk26HXGYiY_DS5woIVS8ogkZ3gjfx9KB" tvg-logo="https://drive.google.com/uc?id=1qk26HXGYiY_DS5woIVS8ogkZ3gjfx9KB" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องGMM25",011-GMM25
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
@@ -46,7 +46,7 @@ http://61.19.242.134/feed/202306140918/chgmm/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องPPTV",012-PPTV
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
-https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+http://61.19.242.134/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องTHAI PBS ",013-THAI PBS
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
@@ -748,8 +748,8 @@ https://streamhls.com/view/9b704460-9474-5a59-9166-fc8c41f7bdb9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamhls.com/view/dde1b217-5dc6-560a-97e7-bd9ec4bddad4.m3u8
 
-#########Update 25/07 0.1        🅛🅤🅧🅓🅤 ​######
-#EXTINF:-1 tvg-id="Update 25/07 0.1        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2022/04/mission-impossible-1996.webp" group-title="Update 25/07 0.1        🅛🅤🅧🅓🅤",
+#########Update 25/07        🅛🅤🅧🅓🅤 ​######
+#EXTINF:-1 tvg-id="Update 25/07 0.2        🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2022/04/mission-impossible-1996.webp" group-title="Update 25/07 0.2       🅛🅤🅧🅓🅤",
 
 
 
