@@ -31,10 +31,14 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
 https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMONO29",009-MONO29
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMONO29",0091-MONO29TH
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
 https://live-3.monomax.me/tv/mono29_1440p.m3u8?vhost=live-3.monomax.me
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMONO29",0092-MONO29EN
+#EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
+#EXTVLCOPT:create by luxDo not for sale
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องAMARIN TV HD",010AMARIN TV HD
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
