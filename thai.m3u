@@ -635,19 +635,13 @@ https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
 #########MoviesChannel 🅛🅤🅧🅓🅤 ​######
 
 
-#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" " tvg-id="HBO.th" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",801-HBO FHD
-#EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
-#EXTVLCOPT:create by luxDo not for sale
-http://116.204.182.53:9981/stream/mux/bbabdfccb6bc5b4f5f2042d881732a69
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 #EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",802-HBO (TH)
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIzIDU6Mzk6NTYgQU0maGFzaF92YWx1ZT1rckRqcTR2bW0wRnR0U1VGNjJPSlVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NzE=
+https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIzIDEwOjUxOjUwIEFNJmhhc2hfdmFsdWU9N3dVNFhKSGdjYVduRUFJU0xNaUJLZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzk4MzE2
 #EXTINF:-1 tvg-id="HBO (EN)" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",803-HBO (EN)
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -691,7 +685,7 @@ https://cdn6.goprimetime.info/feed/202205171929/chzeenung/index.m3u8
 #EXTINF:-1 tvg-id="Movie Hits" tvg-name="" tvg-logo="https://drive.google.com/uc?id=11veARdCK0lT9yV4Qr6gz-ygGLSbF1tQJ" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",814-NK tv
 #EXTVLCOPT:http-referrer=http://sv1.afdc.live:9898
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://sv1.afdc.live:9898/stream/nktv.stream/chunklist.m3u8
+http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAWRg7LH7xBHKgIzVjLemhMeWfM1LwKCJqQ&usqp=CAU" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",815-มังกร
 #EXTVLCOPT:http-referrer=http://49.0.87.24:1936
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
