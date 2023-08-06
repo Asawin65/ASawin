@@ -590,6 +590,44 @@ https://webudit.cdndac.lol/lb/premium449/index.m3u8?|referer=https://widevine.li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdndac.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:-1 tvg-id="Eurosport 1 FHD "tvg-name="IT:Eurosport 1 FHD"tvg-logo="https://guidatv.sky.it/logo/3073eurosporthd_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",361-Eurosport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56630&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Eurosport 2 FHD "tvg-name="IT:Eurosport 2 FHD"tvg-logo="https://guidatv.sky.it/logo/150eurosport2hd_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",362-Eurosport 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56632&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport 24 FHD "tvg-name="IT:Sky Sport 24 FHD"tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",363-Sky Sport 24 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56592&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport 1 FHD "tvg-name="IT:Sky Sport 1 FHD"tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png" group-title=""SportsEN 🅛🅤🅧🅓🅤 ​",364-Sky Sport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56598&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Tennis FHD "tvg-name="IT:Sky Sport Tennis FHD"tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",365-Sky Sport Tennis FHD 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56607&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport F1 FHD "tvg-name="IT:Sky Sport F1 FHD"tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",366-Sky Sport F1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56604&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Moto FHD "tvg-name="IT:Sky Sport Moto FHD"tvg-logo="https://guidatv.sky.it/logo/914skysportmotogp_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",367-Sky Sport Moto FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56601&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Arena FHD "tvg-name="IT:Sky Sport Arena FHD"tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",368-Sky Sport Arena FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Nba FHD "tvg-name="IT:Sky Sport Nba FHD"tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",369-Sky Sport Nba FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56610&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Golf FHD "tvg-name="IT:Sky Sport Golf FHD"tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",370-Sky Sport Golf FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Football FHD "tvg-name="IT:Sky Sport Football FHD"tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png" group-title="SportsEN 🅛🅤🅧🅓🅤 ​",371-Sky Sport Football FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56615&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD "tvg-name="IT:Sky Sport Serie A FHD"tvg-logo="http://google-images-dsa2ds121cvd8as4c12xz15s4.ddns.net/Loghi/SKY_SPORT/Sky_Serie_A_HD.png" group-title=""SportsEN 🅛🅤🅧🅓🅤 ​",372-Sky Sport Serie A FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56621&extension=m3u8 
+
+
+
 #########ทีวีท้องถิ่นไทย 🅛🅤🅧🅓🅤 ​######
 
 
