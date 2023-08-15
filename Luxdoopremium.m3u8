@@ -21,7 +21,9 @@
 "name"              :     "▶️ ผังรายการประจำวัน",
 "image"             :     "https://drive.google.com/uc?id=1xoJj6CtbDIHbv5i_voxalfKXEYHXUAWR",
 "url"               :     "http://tvsmagazine.com/schedule_mob_th.php",
-"embed": "true"}, 
+"embed"             :     "true",
+"import"            :     false
+}, 
 
 {
 "name"              :     "▶️ Digital TV Thailand",
