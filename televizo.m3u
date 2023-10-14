@@ -345,6 +345,257 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/T
 
 
 
+#EXTINF:-1 tvg-id="Sky Sport 24 FHD "tvg-name="IT:Sky Sport 24 FHD"tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport 24 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56592&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport 24 HD "tvg-name="IT:Sky Sport 24 HD"tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56593&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport 1 FHD "tvg-name="IT:Sky Sport 1 FHD"tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56598&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport 1 HD "tvg-name="IT:Sky Sport 1 HD"tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56599&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Tennis FHD "tvg-name="IT:Sky Sport Tennis FHD"tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Tennis FHD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56607&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Tennis HD "tvg-name="IT:Sky Sport Tennis HD"tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Tennis HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56608&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport F1 FHD "tvg-name="IT:Sky Sport F1 FHD"tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport F1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56604&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport F1 HD "tvg-name="IT:Sky Sport F1 HD"tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport F1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56605&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Moto FHD "tvg-name="IT:Sky Sport Moto FHD"tvg-logo="https://guidatv.sky.it/logo/914skysportmotogp_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Moto FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56601&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Moto HD "tvg-name="IT:Sky Sport Moto HD"tvg-logo="https://guidatv.sky.it/logo/914skysportmotogp_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Moto HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56602&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Arena FHD "tvg-name="IT:Sky Sport Arena FHD"tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Arena FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Arena HD "tvg-name="IT:Sky Sport Arena HD"tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Arena HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56619&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Nba FHD "tvg-name="IT:Sky Sport Nba FHD"tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Nba FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56610&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Nba HD "tvg-name="IT:Sky Sport Nba HD"tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Nba HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56611&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Golf FHD "tvg-name="IT:Sky Sport Golf FHD"tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Golf FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Golf HD "tvg-name="IT:Sky Sport Golf HD"tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Golf HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337100&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Football FHD "tvg-name="IT:Sky Sport Football FHD"tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Football FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56615&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Football HD "tvg-name="IT:Sky Sport Football HD"tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56616&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD "tvg-name="IT:Sky Sport Serie A FHD"tvg-logo="http://google-images-dsa2ds121cvd8as4c12xz15s4.ddns.net/Loghi/SKY_SPORT/Sky_Serie_A_HD.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Serie A FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56621&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Serie A HD "tvg-name="IT:Sky Sport Serie A HD"tvg-logo="http://google-images-dsa2ds121cvd8as4c12xz15s4.ddns.net/Loghi/SKY_SPORT/Sky_Serie_A_HD.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Serie A HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56623&extension=m3u8 
+
+ 
+
+#EXTINF:-1 tvg-id="Champions League 1 "tvg-name="IT:Champions League 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Champions League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=363356&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Champions League 2 "tvg-name="IT:Champions League 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Champions League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=363357&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Champions League 3 "tvg-name="IT:Champions League 3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Champions League 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=363358&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Champions League 4 "tvg-name="IT:Champions League 4"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Champions League 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=363359&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Champions League 5 "tvg-name="IT:Champions League 5"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Champions League 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=363360&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Champions League 6 "tvg-name="IT:Champions League 6"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Champions League 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=363361&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Champions League 7 "tvg-name="IT:Champions League 7"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Champions League 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=363362&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Channel "tvg-name="IT:Dazn Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg/396px-Logo_del_canale_televisivo_Zona_DAZN.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=365406&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Channel HEVC "tvg-name="IT:Dazn Channel HEVC"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg/396px-Logo_del_canale_televisivo_Zona_DAZN.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Channel HEVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=365409&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Channel Bar "tvg-name="IT:Dazn Channel Bar"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg/396px-Logo_del_canale_televisivo_Zona_DAZN.svg.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Channel Bar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56669&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 1 "tvg-name="IT:Dazn Web 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56674&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 2 "tvg-name="IT:Dazn Web 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56675&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 3 "tvg-name="IT:Dazn Web 3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56676&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 4 "tvg-name="IT:Dazn Web 4"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56677&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 5 "tvg-name="IT:Dazn Web 5"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56678&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 6 "tvg-name="IT:Dazn Web 6"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56679&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 7 "tvg-name="IT:Dazn Web 7"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56680&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 8 "tvg-name="IT:Dazn Web 8"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56681&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 9 "tvg-name="IT:Dazn Web 9"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56682&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Dazn Web 10 "tvg-name="IT:Dazn Web 10"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Dazn Web 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56683&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Eurosport 1 FHD "tvg-name="IT:Eurosport 1 FHD"tvg-logo="https://guidatv.sky.it/logo/3073eurosporthd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Eurosport 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56630&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD "tvg-name="IT:Eurosport 1 HD"tvg-logo="https://guidatv.sky.it/logo/3073eurosporthd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56631&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Eurosport 1 HEVC "tvg-name="IT:Eurosport 1 HEVC"tvg-logo="https://guidatv.sky.it/logo/3073eurosporthd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Eurosport 1 HEVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=136684&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Eurosport 2 FHD "tvg-name="IT:Eurosport 2 FHD"tvg-logo="https://guidatv.sky.it/logo/150eurosport2hd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Eurosport 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56632&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Eurosport 2 HD "tvg-name="IT:Eurosport 2 HD"tvg-logo="https://guidatv.sky.it/logo/150eurosport2hd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56633&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Eurosport 2 HEVC "tvg-name="IT:Eurosport 2 HEVC"tvg-logo="https://guidatv.sky.it/logo/150eurosport2hd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Eurosport 2 HEVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=136683&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sport Italia Live 24 "tvg-name="IT:Sport Italia Live 24"tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_live24.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sport Italia Live 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56595&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sport Italia HD "tvg-name="IT:Sport Italia HD"tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_hd.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sport Italia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56596&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sport Italia Solo Calcio "tvg-name="IT:Sport Italia Solo Calcio"tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_calcio.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sport Italia Solo Calcio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56614&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Milan Channel "tvg-name="IT:Milan Channel"tvg-logo="https://guidatv.sky.it/logo/261milantv_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Milan Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56625&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Inter Channel "tvg-name="IT:Inter Channel"tvg-logo="https://guidatv.sky.it/logo/487intertv_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Inter Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56626&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Lazio Channel "tvg-name="IT:Lazio Channel"tvg-logo="https://guidatv.sky.it/logo/8112laziostylehd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Lazio Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56627&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Top Calcio 24 "tvg-name="IT:Top Calcio 24"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqSO0iDhFHPoswVsA7VSG_-Qxps3pvhZ7q773IMv9MUQ&s"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Top Calcio 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56591&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Super Tennis FHD "tvg-name="IT:Super Tennis FHD"tvg-logo="https://guidatv.sky.it/logo/5246supertennishd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Super Tennis FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56628&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Rai Sport FHD "tvg-name="IT:Rai Sport FHD"tvg-logo="https://guidatv.sky.it/logo/807raisport_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Rai Sport FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56646&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Pesca e Caccia TV FHD "tvg-name="IT:Sky Pesca e Caccia TV FHD"tvg-logo="https://guidatv.sky.it/logo/350cacciaepesca_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Pesca e Caccia TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56635&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Caccia e Pesca TV FHD "tvg-name="IT:Sky Caccia e Pesca TV FHD"tvg-logo="https://guidatv.sky.it/logo/344cacciaepesca_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Caccia e Pesca TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56636&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Bar Prime Video FHD "tvg-name="IT:Sky Sport Bar Prime Video FHD"tvg-logo="https://guidatv.sky.it/logo/917skysporthd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Bar Prime Video FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=365295&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Bar 1 FHD "tvg-name="IT:Sky Sport Bar 1 FHD"tvg-logo="https://guidatv.sky.it/logo/917skysporthd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Bar 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=365289&extension=m3u8 
+
+#EXTINF:-1 tvg-id="Sky Sport Bar 2 FHD "tvg-name="IT:Sky Sport Bar 2 FHD"tvg-logo="https://guidatv.sky.it/logo/917skysporthd_Light_Padding.png"group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport Bar 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=365292&extension=m3u8 
+
+
+
+
+
+
+
+
+
+
 #########ทีวีท้องถิ่นไทย 🅛🅤🅧🅓🅤 ​######
 
 
