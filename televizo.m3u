@@ -158,11 +158,11 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 #EXTINF:-1 tvg-id="beINSports 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="SportsTH 🅛🅤🅧🅓🅤 ​",201-True Premier Football HD 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
-https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSports 🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="SportsTH 🅛🅤🅧🅓🅤 ​",202-True Premier Football HD 1
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
