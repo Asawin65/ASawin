@@ -335,13 +335,15 @@ https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8
 #EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
 #EXTVLCOPT:create by luxDo not for sale
 http://139.99.24.189:8081/live/bein1/sport/golf/chunks.m3u8/
-#EXTINF:-1 tvg-id="TrueSport" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="SportsTH 🅛🅤🅧🅓🅤 ​",230-BEIN1 AIS 
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
-#EXTVLCOPT:create by luxDo not for sale
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e201a58b1b6cf01260386e487c5e400f&chunkHttps=true&tmid=B0001&tpbk=yaemDLOfwYAtDKde&rrt=1691331628&tmod=rfk&rsid=9d19b671-6af5-443b-839d-65ab86cee590&tuid=4e512ef7bc&cdn=redfox-https&tdid=cb7fe215e404b749a02b459ce442ea0a&origin=anevia&tfa=f0-fc&tttl=1691418027
-
+#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-golf-thailand-hd.jpg", Golf Channel [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://live.vip-streaming.com:30443/doolive4k.tv/true-golf/chunks.m3u8?|referer=https://doolive4k.tv/
+#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220623152914golf2.jpg", Golf Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMTowNDoyMCBBTSZoYXNoX3ZhbHVlPSs0ZGNTY0tHeUhweTdydFdlWE9scWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8yMzg2MA==|referer=https://wacth.tv/
+#EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-golf-thailand-hd.jpg", Golf Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://wacthstream.com/stream_live/675_GOLF_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMTowNDo1MCBBTSZoYXNoX3ZhbHVlPTRmN3JsNlcwTGJ1ekJjcHBiU2lMK0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNjA0Mg==|referer=https://wacth.tv/
 
 
 
