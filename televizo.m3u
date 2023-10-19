@@ -344,7 +344,18 @@ https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 group-title="SportsTH 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-golf-thailand-hd.jpg", Golf Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://wacthstream.com/stream_live/675_GOLF_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDg6MDI6MTkgQU0maGFzaF92YWx1ZT1YcmwrajRKVGVDM3hpK0tkZlF4V2pBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjc2MTk=|referer=https://wacth.tv/
-
+#EXTINF:-1 tvg-id="GOLF CHANNEL THAILAND HD" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_320.webp" group-title="SportsTH 🅛🅤🅧🅓🅤 ​",SPOTV 1 
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
+#EXTVLCOPT:create by luxDo not for sale
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?
+#EXTINF:-1 tvg-id="GOLF CHANNEL THAILAND HD" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_320.webp" group-title="SportsTH 🅛🅤🅧🅓🅤 ​",SPOTV 2 
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:update=21-07-2023 23:00:00 ( please update playlist https://bit.ly/44rFcXc )
+#EXTVLCOPT:create by luxDo not for sale
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-id="Sky Sport 24 FHD "tvg-name="IT:Sky Sport 24 FHD"tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",IT:Sky Sport 24 FHD
