@@ -836,12 +836,12 @@ https://ctrl.laotv.la/live/Boomerang/index.m3u8
 #EXTVLCOPT:http-referrer=https://edge2-bkk.3bb.co.th
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Cartoon       🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://mediashopping.co.th/wp-content/uploads/2021/08/Toonee-logo-1024x630.png" group-title="Cartoon       🅛🅤🅧🅓🅤 ​",703-toonee
+#EXTINF:-1 tvg-id="Cartoon       🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="http://musiczaclubradio.ueuo.com/tv/imagestv/Cartoon-Club.jpg" group-title="Cartoon       🅛🅤🅧🅓🅤 ​",702-cartoon club
 #EXTVLCOPT:update=22-12-2023 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
 #EXTVLCOPT:create by luxDo not for sale
-#EXTVLCOPT:http-referrer=http://49.0.87.24:1936
+#EXTVLCOPT:http-referrer=https://edge2-bkk.3bb.co.th
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cartoon       🅛🅤🅧🅓🅤 ​" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png" group-title="Cartoon       🅛🅤🅧🅓🅤 ​",704-cartoon network
 #EXTVLCOPT:update=22-12-2023 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
 #EXTVLCOPT:create by luxDo not for sale
