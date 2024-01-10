@@ -853,21 +853,21 @@ https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",802-HBO (TH)
+#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u3ylx1j9uzkmo3yyvy4s9/HBO-English.png?rlkey=twa4b11jog6z8pzpsqv6aoqss&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",802-HBO (TH)
 #EXTVLCOPT:update=22-12-2023 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
 #EXTVLCOPT:create by luxDo not for sale
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sv2.wacthstream.com/wacth_tv/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDg6NTg6NTkgQU0maGFzaF92YWx1ZT1DajFwL3VKb1ViMFZtWXBZK3FPQVV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzAxOTg=
 
-#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",803-HBO (TH)
+#EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u3ylx1j9uzkmo3yyvy4s9/HBO-English.png?rlkey=twa4b11jog6z8pzpsqv6aoqss&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",803-HBO (TH)
 #EXTVLCOPT:update=22-12-2023 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
 #EXTVLCOPT:create by luxDo not for sale
 #EXTVLCOPT:http-referrer=https://series.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dkl-o53d.cdn.akamaiz.com/serieslive/hbo/playlist.m3u8?|referre=https://series.live
+https://edge2.laotv.la/live/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO (EN)" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",804-HBO (EN)
+#EXTINF:-1 tvg-id="HBO (EN)" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u3ylx1j9uzkmo3yyvy4s9/HBO-English.png?rlkey=twa4b11jog6z8pzpsqv6aoqss&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",804-HBO (EN)
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
@@ -880,11 +880,11 @@ https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8?wmsAuthS
 #EXTVLCOPT:create by luxDo not for sale
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sv2.wacthstream.com/wacth_tv/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDg6NTg6NTkgQU0maGFzaF92YWx1ZT1DajFwL3VKb1ViMFZtWXBZK3FPQVV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzAxOTg=
+https://edge1.laotv.la/live/Cinemax/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="WarnerTV" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/wb-tv.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",813-Warner TV
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/smmgt0iaz2fzo96rh2piq/Warner-TV-TH.png?rlkey=vy9tfs29yp3cotloaw903lgoc&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",813-Warner TV
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
@@ -893,14 +893,14 @@ https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?wmsAut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Thai Film" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",815-Thai Film  
+#EXTINF:-1 tvg-id="Thai Film" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",815-Thai Film  
 #EXTVLCOPT:update=22-12-2023 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
 #EXTVLCOPT:create by luxDo not for sale
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sv2.wacthstream.com/wacth_tv/236_TrueThaiFilmHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDg6NTg6NTkgQU0maGFzaF92YWx1ZT1DajFwL3VKb1ViMFZtWXBZK3FPQVV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzAxOTg=
 
-#EXTINF:-1 tvg-id="Thai Film" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",816-Thai Film 🇹🇭
+#EXTINF:-1 tvg-id="Thai Film" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",816-Thai Film 🇹🇭
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
@@ -961,7 +961,7 @@ https://live.thaitvstream.com/play/chiangrai/index.m3u8
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 #EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y1V5yWzBHskHB-Lot_jl4fpJ5wIZOHsXfg&usqp=CAU",819-MOVIE GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="CTB.th" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-TCB.png",820-CTB
+#EXTINF:-0 group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​" tvg-id="CTB.th" tvg-logo="https://drive.google.com/uc?id=1f9R3AcDvES9aR0NwMFPDIgkVrn82y10e",820-CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w672486153.m3u8
 #EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://www.muanchononlinenews.com/wp-content/uploads/2022/01/H02.jpg" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",861-มวลชนทีวี
 #EXTVLCOPT:http-referrer=http://49.0.87.24:1936
