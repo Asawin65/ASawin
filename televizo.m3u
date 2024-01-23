@@ -851,7 +851,10 @@ https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
 
 #########MoviesChannel 🅛🅤🅧🅓🅤 ​######
 
-
+#EXTINF:-1 tvg-chno="MONO29 Plus" tvg-id="True4U" tvg-name="MONO29 Plus" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",Mono29Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfbFlyWXM1ZVp3c2dobW5Vc29IbHgiLCJjaWQiOiJWMDE5MiIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS0RDaERFeWdZMWkvYjJrclJvNnU4a2syNXZ6MjZiYi9VZSt1Z1FrZ2lwOUgiLCJ0aW1lc3RhbXAiOiIyMDI0LTAxLTIzVDA4OjQwOjIyWiIsImhhc2giOiI1b1NSQ2RsVVk3VCszdktaOWNDekZIUjU4RVJBajcxK2N5bnUzTW9oSm9zPSJ9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
 
 #EXTINF:-1 tvg-id="HBO(TH)" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u3ylx1j9uzkmo3yyvy4s9/HBO-English.png?rlkey=twa4b11jog6z8pzpsqv6aoqss&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",802-HBO (TH)
 #EXTVLCOPT:update=22-12-2023 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
