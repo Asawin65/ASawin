@@ -497,13 +497,68 @@ https://streaming.livescorethai.net/iptv/us-foxsports1.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/us-foxsports2.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Astro"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s5zoulv0tbcjuq5dtud8d/astro-supersport.png?rlkey=tyc5mmh449pczj1ughspfa4td&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",921-Asrto (US)
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Astro2"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ejgx9r6uklnboipoaermm/astro-supersport-2.png?rlkey=qjjdfki8xady5ggziubsncyss&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",922-Asrto2 (US)
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Red Bull TV HD"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gwqqy7ankc9yfefiv6wiu/RED-BULL-TV.png?rlkey=wk0zl8nk2xkm748v3vq44cre4&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",923-Red Bull TV HD (US)
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=https://rbmn-live.akamaized.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-id="EDGEsport FHD"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9mmjqoq56rzp9hltl16wh/EDGE.png?rlkey=vgh0epzmhcvh3elxc5y9m3sgq&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",924-EDGEsport (1080p) (US)
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=https://rbmn-live.akamaized.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WWE"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g3pwpjfok7viumd9gkdpt/WWE-HD.png?rlkey=1mz08gym02l4vkzfzaa7lvk2x&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",925-WWE (US)
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=https://rbmn-live.akamaized.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Fight Network HD"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g3pwpjfok7viumd9gkdpt/WWE-HD.png?rlkey=1mz08gym02l4vkzfzaa7lvk2x&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",926-Fight Network HD (US)
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SonySport1"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lyc3hqopqvyiwjdg5p7yb/sony-sport-1.png?rlkey=u2dco5yidm02chxwe0h3cnz54&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",927-SonySport1
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://raw.githubusercontent.com/Asawin65/ASawin/main/m3u8/SonySport1.m3u8
 
+#EXTINF:-1 tvg-id="SonySport2"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0rw9l6fa6z2xit4gshyfe/sony-sport-2.png?rlkey=fzycom5t5b61btj7a6wq90ywe&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",928-SonySport2
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://raw.githubusercontent.com/Asawin65/ASawin/main/m3u8/SonySport2.m3u8
+
+#EXTINF:-1 tvg-id="SonySport3"tvg-name=""tvg-logo="https://dl.dropboxusercontent.com/scl/fi/meiiv6hqkji44pztigoex/sony-sport-3.png?rlkey=i6dk5z1ioxd7co6oce0zum45j&dl=0" group-title="SPORT EN 🅛🅤🅧🅓🅤 ",929-SonySport3
+#EXTVLCOPT:update=09-02-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:create by luxDo not for sale
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://raw.githubusercontent.com/Asawin65/ASawin/main/m3u8/SonySport3.m3u8
 
 
 #########ทีวีท้องถิ่นไทย 🅛🅤🅧🅓🅤 ​######
