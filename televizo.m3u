@@ -835,11 +835,6 @@ https://edge2.laotv.la/live/TureFilm/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="True Film1" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/006mhk7tamumcoghf9mgj/truefilm2.png?rlkey=23f6x40p1mya2pjmuxw7eqek8&dl=0" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",818-True Film2 🇹🇭
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://playtv.my.id/play/truefilm2.m3u8
-
 
 #EXTINF:-1 tvg-id="TRUE Series" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1NS8Gw66ndUz9P-Nv86LkqQJN9yeT2RQU" group-title="MoviesChannel 🅛🅤🅧🅓🅤 ​",819-TRUE Series 🇹🇭
 #EXTVLCOPT:update=25-03-2024 14:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
