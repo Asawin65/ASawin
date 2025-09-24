@@ -401,7 +401,7 @@ name                    :    "MonoMax5",
 image   		:    "https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport5.png",
 "url":"https://www.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8",
 "referer": "https://www.livedoomovies.com",
-"playInNatPlayer":"true"},
+"playInNatPlayer":"true"
 
 
 
@@ -416,7 +416,8 @@ image   		:    "https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport5.png",
 
 
 
-  ]
-      },
+   }
    ]
+  }
+ ]
 }
