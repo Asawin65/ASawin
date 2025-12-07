@@ -1,30 +1,38 @@
 #EXTM3U url="luxDu CHANEL"
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="CH-3" tvg-name="CH 3" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dmr87rh3rwt56sywrx5cf/CH-3.png?rlkey=v9eoqoh8rtkcd2q8vchn02dce&dl=0",ช่อง3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo)
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k)
 ##KODIPROP:create by luxDo not for sale
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="CH-3" tvg-name="CH 3" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dmr87rh3rwt56sywrx5cf/CH-3.png?rlkey=v9eoqoh8rtkcd2q8vchn02dce&dl=0",ช่อง3
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k)
+##KODIPROP:create by luxDo not for sale
+https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/h7efm85g2agwbonvmnprd/CH-5.png?rlkey=64c2xay744zaab6ygydxfzwnc&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h7efm85g2agwbonvmnprd/CH-5.png?rlkey=64c2xay744zaab6ygydxfzwnc&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง5",ช่อง5
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w1436594662.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/h7efm85g2agwbonvmnprd/CH-5.png?rlkey=64c2xay744zaab6ygydxfzwnc&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h7efm85g2agwbonvmnprd/CH-5.png?rlkey=64c2xay744zaab6ygydxfzwnc&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง5",ช่อง5
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
+#EXTVLCOPT:create by luxDo not for sale
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="CH-7" tvg-name="CH7" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xenef3giqy7pg6zxyq88x/7HD.png?rlkey=8dadmn0l9hunj7p2x7q47c6ap&dl=0",ช่อง7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="CH-7" tvg-name="CH7" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xenef3giqy7pg6zxyq88x/7HD.png?rlkey=8dadmn0l9hunj7p2x7q47c6ap&dl=0",ช่อง7
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
+##KODIPROP:create by luxDo not for sale
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/xenef3giqy7pg6zxyq88x/7HD.png?rlkey=8dadmn0l9hunj7p2x7q47c6ap&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xenef3giqy7pg6zxyq88x/7HD.png?rlkey=8dadmn0l9hunj7p2x7q47c6ap&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง7",ช่อง7
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/z1w9kkdnrn36q9144eqi1/8HD.png?rlkey=aa8df0i502e08abhvs2fo2212&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z1w9kkdnrn36q9144eqi1/8HD.png?rlkey=aa8df0i502e08abhvs2fo2212&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่อง8",ช่อง8
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-chno="3" ch-number="4" tvg-id="MCOT" tvg-name="MCOT" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ltr6eegfkvu9s9ml9bprw/MCOT-HD.png?rlkey=ff3b0nieqivdhe0c7ga5yqkox&dl=0",MCOT
@@ -32,7 +40,7 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 #EXTINF:-1 tvg-chno="3" ch-number="4" tvg-id="WORKPOINT " tvg-name="WORKPOINT " group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4zudfa0gc94vc0hj8ww3k/workpoit.png?rlkey=q2oip732ypqjalqat7u5cjhr1&dl=0",WORKPOINT 
@@ -40,7 +48,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="ONE31HD" tvg-name="ONE31HD" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/91s023fdmoztx7l5wg91c/one31.png?rlkey=51elvzc14iwv474t7lz3oj4bz&dl=0",ช่องONE 31
@@ -48,11 +56,11 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/91s023fdmoztx7l5wg91c/one31.png?rlkey=51elvzc14iwv474t7lz3oj4bz&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/91s023fdmoztx7l5wg91c/one31.png?rlkey=51elvzc14iwv474t7lz3oj4bz&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องONE 31",ONE 31
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="THAIRATH" tvg-name="THAIRATH" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fbp4eb03cxrmmfay5by0z/THAIRATH-TV.png?rlkey=wy54dbjj00ftjjte20voow52y&dl=0",THAIRATH
@@ -60,11 +68,11 @@ http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/fbp4eb03cxrmmfay5by0z/THAIRATH-TV.png?rlkey=wy54dbjj00ftjjte20voow52y&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fbp4eb03cxrmmfay5by0z/THAIRATH-TV.png?rlkey=wy54dbjj00ftjjte20voow52y&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องTHAIRATH TV",THAIRATH TV
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="MONO29" tvg-name="MONO29" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",MONO29TH
@@ -72,15 +80,15 @@ https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMONO29",MONO29TH
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องMONO29",MONO29EN
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="AMARIN TV" tvg-name="AMARIN TV" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yyiiv3j1ulfmvbu872dpn/AMARIN-TV-HD.png?rlkey=ht76el5ywp7ejzan05m8x7orp&dl=0",AMARIN TV
@@ -88,11 +96,11 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/yyiiv3j1ulfmvbu872dpn/AMARIN-TV-HD.png?rlkey=ht76el5ywp7ejzan05m8x7orp&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yyiiv3j1ulfmvbu872dpn/AMARIN-TV-HD.png?rlkey=ht76el5ywp7ejzan05m8x7orp&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องAMARIN TV HD",AMARIN TV HD
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id=" GMM25 " tvg-name=" GMM25 " group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tsu98v3kr79iv0rx71q48/GMM25.png?rlkey=00x81s7z0ln2wfzdxmqlm8e5m&dl=0", GMM25
@@ -100,11 +108,11 @@ http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/yyiiv3j1ulfmvbu872dpn/AMARIN-TV-HD.png?rlkey=ht76el5ywp7ejzan05m8x7orp&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fmqqlmdfm5f6nh6hc5vmt/PPTV.png?rlkey=1a3hitg37piuu10dryp7b0zdl&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องPPTV",PPTV
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="PPTV" tvg-name="PPTV " group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fmqqlmdfm5f6nh6hc5vmt/PPTV.png?rlkey=1a3hitg37piuu10dryp7b0zdl&dl=0", PPTV
@@ -112,23 +120,23 @@ https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cnt2-streamer2.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/domcg5xr3nh384agfqs55/THAI-PBS.png?rlkey=clvi95rzfco81nqv2mcsldscj&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/domcg5xr3nh384agfqs55/THAI-PBS.png?rlkey=clvi95rzfco81nqv2mcsldscj&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องTHAI PBS ",THAI PBS
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/akpxx6tv728ccfq8x8avr/TNN16.png?rlkey=tvaaz0f5vqekb3jejl05v9es1&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/akpxx6tv728ccfq8x8avr/TNN16.png?rlkey=tvaaz0f5vqekb3jejl05v9es1&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องTNN16 ",TNN16 
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/nlanjqktf43di1p1ohkxh/JKN18.png?rlkey=25hmz3cih2gd2t5jf8k9qxii5&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nlanjqktf43di1p1ohkxh/JKN18.png?rlkey=25hmz3cih2gd2t5jf8k9qxii5&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ช่องJKN18 ",JKN18 
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/hp55e71whm5bqxbylt3ux/NBT.png?rlkey=w0yh3b482zjm0dtny86sud86u&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hp55e71whm5bqxbylt3ux/NBT.png?rlkey=w0yh3b482zjm0dtny86sud86u&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="NBT HD ",NBT HD
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_w2046698897_b3128000.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="NATION" tvg-name="NATION " group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v3q2rk310ejp1sqg777bh/nation.png?rlkey=rd6twi1qvyi64j1tqqi05wkhr&dl=0",NATION
@@ -136,15 +144,15 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1-8UG7yMKXcbCN7wnBohX-oMVKs6nwgK-" tvg-logo="https://drive.google.com/uc?id=1-8UG7yMKXcbCN7wnBohX-oMVKs6nwgK-" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="TPTV ",TPTV
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://drive.google.com/uc?id=1fAZ6VOUHbbmqlmLDCJIkB3_8adzQfW2l" tvg-logo="https://drive.google.com/uc?id=1fAZ6VOUHbbmqlmLDCJIkB3_8adzQfW2l" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="ALTV ",ALTV
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TRUE4U " tvg-name="TRUE4U " group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",TRUE4U 
@@ -152,74 +160,74 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
-##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+##KODIPROP:update=21-10-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 ##KODIPROP:create by luxDo not for sale
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://dl.dropboxusercontent.com/scl/fi/1g72r79ys5tuwvfpcywds/TSPORTS7.png?rlkey=nc0bnkttw7u78tien860tinnh&dl=0" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1g72r79ys5tuwvfpcywds/TSPORTS7.png?rlkey=nc0bnkttw7u78tien860tinnh&dl=0" tvg-chno="1" group-title="THAI Digital TV 🅛🅤🅧🅓🅤 ​" tvg-name="T-SPORT7 ",T-SPORT7
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 
 #######Education    🅛🅤🅧🅓🅤 ​####
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV1.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",101-DLTV1
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV2.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",102-DLTV2
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV3.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",103-DLTV3
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV4.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",104-DLTV4
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv04.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV5.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",105-DLTV5
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV6.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",106-DLTV6
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv06.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV7.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",167-DLTV7
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv0⁷.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV8.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",108-DLTV8
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv08.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV9.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",109-DLTV9
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV10.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",110-DLTV10
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV11.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",111-DLTV11
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv11.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV12.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",112-DLTV12
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv12.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV13.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",113-DLTV13
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv13.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV14.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",114-DLTV14
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-0 group-title="Education    🅛🅤🅧🅓🅤 ​" tvg-id="DLTV15.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",115-DLTV15
-#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://c9pm.short.gy/televizoluxdo )
+#EXTVLCOPT:update=02-07-2024 18:30:00 ( please update playlist https://7jz2.short.gy/luxdo4k )
 #EXTVLCOPT:create by luxDo not for sale
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
