@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://119.59.118.168/live/ch21/Ultraman008/index.m3u8
+http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776132&extension=m3u8
