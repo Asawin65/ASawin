@@ -1,4 +1,4 @@
-#CCTV NETWORK 
+#EXTM3U
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv1.png" group-title="CCTV NETWORK",CCTV 1 FHD OK SLOW
 http://iptv.4666888.xyz/iptv2A.php?id=7
