@@ -1,0 +1,97 @@
+#CCTV NETWORK 
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv1.png" group-title="CCTV NETWORK",CCTV 1 FHD OK SLOW
+http://iptv.4666888.xyz/iptv2A.php?id=7
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1 - 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv1.png" group-title="CCTV NETWORK",CCTV 1 FHD (General) OK STABLE 
+http://74.91.26.218:82/live/cctv1hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv2.png" group-title="CCTV NETWORK",CCTV 2 FHD OK
+http://iptv.4666888.xyz/iptv2A.php?id=8
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2 - 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv2.png" group-title="CCTV NETWORK", CCTV 2 FHD (Finance) OK
+http://74.91.26.218:82/live/cctv2hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv3.png" group-title="CCTV NETWORK",CCTV 3 FHD OK
+http://iptv.4666888.xyz/iptv2A.php?id=9
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3 - 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv3.png" group-title="CCTV NETWORK",CCTV 3 Arts & Entertainment FHD OK
+http://74.91.26.218:82/live/cctv3hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv4.png" group-title="CCTV NETWORK",CCTV 4 FHD OK SLOW
+http://iptv.4666888.xyz/iptv2A.php?id=10
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4 - 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv4.png" group-title="CCTV NETWORK",CCTV 4 International Chinese Asia FHD OK STABLE 
+http://74.91.26.218:82/live/cctv4hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="CCTV NETWORK",CCTV-4 International Chinese America (1080p) 中文国际（美）OK Slow 
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="CCTV NETWORK",CCTV-4 International Chinese Europe OK
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5.png" group-title="CCTV NETWORK",CCTV 5 Sports FHD OK
+http://74.91.26.218:82/live/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5 - 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5.png" group-title="CCTV NETWORK",CCTV 5 SPORTS Link 2 nok
+http://111.9.163.109:55555/tsfile/live/0005_1.m3u8?key=txiptv
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5 - 3" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5.png" group-title="CCTV NETWORK",CCTV 5 HD SPORTS Link 3 OK
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5+" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5plus.png" group-title="CCTV NETWORK",CCTV 5 + SPORTS HD OK
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5 + 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5plus.png" group-title="CCTV NETWORK",CCTV 5 + SPORTS (Link2) HD OK
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5 + 3" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5plus.png" group-title="CCTV NETWORK",CCTV 5 + SPORTS (Link3) slow or not ok 
+http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv6.png" group-title="CCTV NETWORK",CCTV 6 Movie FHD OK Original Advt
+http://74.91.26.218:82/live/cctv6hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6 - 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv6.png" group-title="CCTV NETWORK",CCTV 6 Movie 6 HD Link 2 OK
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv7.png" group-title="CCTV NETWORK",CCTV 7 (National Defense & Military) FHD OK
+http://74.91.26.218:82/live/cctv7hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv7.png" group-title="CCTV NETWORK",CCTV 7 FHD OK 
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8 - 2" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv8.png" group-title="CCTV NETWORK",CCTV 8 (TV Series) FHD OK
+http://74.91.26.218:82/live/cctv8hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctvjilu.png" group-title="CCTV NETWORK",CCTV 9 (Documentary) FHD OK
+http://74.91.26.218:82/live/cctv9hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv10.png" group-title="CCTV NETWORK",CCTV 10 (Science & Education) FHD OK
+http://74.91.26.218:82/live/cctv10hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv11.png" group-title="CCTV NETWORK",CCTV 11 (Chinese Opera) FHD OK
+http://74.91.26.218:82/live/cctv11hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv12.png" group-title="CCTV NETWORK",CCTV 12 (Society & Law) FHD OK
+http://74.91.26.218:82/live/cctv12hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv13.png" group-title="CCTV NETWORK",CCTV 13 (News) FHD OK IPTV
+http://iptv.4666888.xyz/iptv2A.php?id=11
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctvchild.png" group-title="CCTV NETWORK", CCTV 14 (Children) FHD OK
+http://iptv.4666888.xyz/iptv2A.php?id=12
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv15.png" group-title="CCTV NETWORK",CCTV 15 (Music) FHD OK
+http://74.91.26.218:82/live/cctv15hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv16.png" group-title="CCTV NETWORK",CCTV 16 (Olympics) 4K FHD OK
+http://74.91.26.218:82/live/cctv16hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv17.png" group-title="CCTV NETWORK",CCTV 17 (Agricultural & Rural) FHD OK
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxusYlX.png" tvg-country="CN" tvg-language="zho" tvg-id="CCTV4K.cn" group-title="CCTV NETWORK",CCTV 4K 
+http://198.204.240.250:82/live/cctv4k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxVPMJF.png" tvg-country="CN" tvg-language="zho" tvg-id="CCTV8K.cn" group-title="CCTV NETWORK",CCTV 8K
+http://198.204.240.250:82/live/cctv8k.m3u8
