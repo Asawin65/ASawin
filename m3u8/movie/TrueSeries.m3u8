@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4704801,AVERAGE-BANDWIDTH=3956003,RESOLUTION=1920x1080,FRAME-RATE=25.000
-http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115782&extension=m3u8
 http://6395online.com:8080/live/Iptv6988/0905692638/146.m3u8
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115782&extension=m3u8
+
