@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115628&extension=m3u8
-http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115241&extension=m3u8
-http://6395online.com:8080/live/Iptv6988/0905692638/140.m3u8
