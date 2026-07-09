@@ -2,3 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8100000,FRAME-RATE=30
 http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115501&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:05:3C:AC&stream=115501&extension=m3u8
